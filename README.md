@@ -44,3 +44,10 @@ I'm simply letting my interests guide my growth and seeing where the journey lea
 
 ---
 
+## 📊 Dashboards
+- 📁 Excel Dashboards → https://github.com/Shaan-Kotturu/Excel-Dashboards
+- 📁 Power BI Dashboards → https://github.com/Shaan-Kotturu/PowerBI-Dasboards
+
+## 🧪 Learning & Experiments
+- Python
+- HTML/CSS
