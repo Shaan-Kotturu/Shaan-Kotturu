@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shaan Kotturu  
-### *IT Infrastructure Project Manager | Data & Web Enthusiast | Lifelong Learner*
+### *IT Infrastructure Project Manager | Data, Automation & Web Enthusiast | Learner*
 
 I'm an IT Infrastructure Project Manager with a strong interest in learning new technologies — especially anything related to **data, automation, and web development**.
 
@@ -29,24 +29,23 @@ I'm simply letting my interests guide my growth and seeing where the journey lea
 - Power BI dashboards  
 - Python for automation and analysis  
 - HTML & CSS for web development  
-- Git & GitHub for version control  
 - Process automation (Python & Power Automate)
 
 ---
 
 ## 🧰 Tech & Tools I Use
 - **Python** (Pandas, NumPy, Matplotlib)  
-- **Excel / VBA basics**  
+- **Excel**  
 - **Power BI**  
 - **HTML & CSS**  
 - **Power Automate**  
-- **Git & GitHub**
 
 ---
 
 ## 📊 Dashboards
 - 📁 Excel Dashboards → https://github.com/Shaan-Kotturu/Excel-Dashboards
 - 📁 Power BI Dashboards → https://github.com/Shaan-Kotturu/PowerBI-Dasboards
+- 📁 Python → https://github.com/Shaan-Kotturu/python_scripts
 
 ## 🧪 Learning & Experiments
 - Python
