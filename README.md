@@ -50,3 +50,19 @@ I'm simply letting my interests guide my growth and seeing where the journey lea
 ## 🧪 Learning & Experiments
 - Python
 - HTML/CSS
+
+## 📘 AI Fundamentals – eBook
+
+The eBook is a **consolidated version of an AI fundamentals email course** that I previously created and shared with my team.
+
+### 🎯 Purpose
+
+The content is designed to explain **AI concepts in a simple, structured, and non-technical manner**, making it suitable for:
+- Project Managers
+- Delivery / Program Managers
+- Non-technical stakeholders
+- Anyone looking to understand AI without deep math or coding
+- Serve as a reusable learning resource for teams and individuals
+
+### 📎 Notes
+This material is based on my learning and experience while exploring AI fundamentals and is intended for **educational and knowledge-sharing purposes**.
